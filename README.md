@@ -6,10 +6,8 @@
 3rd year · interested in software engineering, full-stack and systems
 
 [![GitHub](https://img.shields.io/badge/GitHub-Cast--10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cast-10)
-<!-- Add your links here, e.g.:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--handle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-you@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--handle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasco-castanheira-67370337b)
+[![Email](https://img.shields.io/badge/Email-you@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasco.castanheira@gmail.com)
 
 <br/>
 
