@@ -2,7 +2,7 @@
 
 # Hi, I'm Vasco 👋
 
-**Informatics and Computing Engineering @ FEUP, University of Porto**
+**Informatics and Computing Engineering Student at @FEUP, University of Porto**
 3rd year · interested in software engineering, full-stack and systems
 
 [![GitHub](https://img.shields.io/badge/GitHub-Cast--10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cast-10)
