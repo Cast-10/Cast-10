@@ -6,9 +6,8 @@
 3rd year · interested in software engineering, full-stack and systems
 
 [![GitHub](https://img.shields.io/badge/GitHub-Cast--10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cast-10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasco-Castanheira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasco-castanheira-67370337b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasco_Castanheira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasco-castanheira-67370337b)
 [![Email](https://img.shields.io/badge/Email-vasco.castanheira@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasco.castanheira@gmail.com)
-
 <br/>
 
 <img src="https://skillicons.dev/icons?i=cpp,c,java,py,dart,flutter,firebase,php,docker,linux,git&perline=11" alt="Tech stack" />
